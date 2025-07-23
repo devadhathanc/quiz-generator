@@ -1,4 +1,4 @@
-# QuizMaster
+# Quiz Generator
 
 A real-time multiplayer quiz application built with React, TypeScript, and WebSockets.
 
